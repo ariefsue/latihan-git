@@ -10,6 +10,7 @@ orientation = portrait
 fullscreen = 0
 android.archs = arm64-v8a
 android.accept_sdk_license = True
+p4a.branch = develop
 android.allow_backup = True
 
 [buildozer]
